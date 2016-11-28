@@ -5,3 +5,4 @@ My work-throughs of Jupyter notebooks for the Udacity Deep Learning course
 
 1. [notMNIST - From Machine Learning to Deep Learning](http://htmlpreview.github.io/?https://github.com/jeremy-shannon/udacity-Deep-Learning/blob/master/1_notmnist.html)
 2. [fullyconnected - Deep Neural Networks: Stochastic Gradient Descent](http://htmlpreview.github.io/?https://github.com/jeremy-shannon/udacity-Deep-Learning/blob/master/2_fullyconnected.html)
+2. [regularization - Deep Neural Networks: Regularization](http://htmlpreview.github.io/?https://github.com/jeremy-shannon/udacity-Deep-Learning/blob/master/3_regularization.html)
